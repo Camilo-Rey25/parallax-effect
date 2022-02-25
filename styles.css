@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+
+.seccion-1{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(images/calle.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment:fixed ;
+}
+
+.seccion-2{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(images/callle1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment:fixed ;
+}
+
+.seccion-3{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(images/calle2.jpg.opdownload);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment:fixed ;
+}
+
+.container-text{
+    position: absolute;
+    bottom: 55%;
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+}
+
+
+.text{
+    color: white;
+    text-shadow: 0 0 10px #ff8c3b,
+                 0 0 10px #ff8c3b;
+}
+
+
